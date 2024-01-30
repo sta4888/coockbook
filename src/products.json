@@ -1,0 +1,378 @@
+[
+  {
+    "model": "cookbook.product",
+    "pk": 1,
+    "fields": {
+      "name": "Творог",
+      "times_cooked": 1
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 2,
+    "fields": {
+      "name": "Яйцо",
+      "times_cooked": 1
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 9,
+    "fields": {
+      "name": "Томат",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 10,
+    "fields": {
+      "name": "Картофель",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 11,
+    "fields": {
+      "name": "Редис",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 12,
+    "fields": {
+      "name": "Морковь",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 13,
+    "fields": {
+      "name": "Лук",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 14,
+    "fields": {
+      "name": "Свекла",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 15,
+    "fields": {
+      "name": "Капуста",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 16,
+    "fields": {
+      "name": "Огурец",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 17,
+    "fields": {
+      "name": "Баклажан",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 18,
+    "fields": {
+      "name": "Яблоко",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 19,
+    "fields": {
+      "name": "Бананы",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 20,
+    "fields": {
+      "name": "Апельсин",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 21,
+    "fields": {
+      "name": "Груша",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 22,
+    "fields": {
+      "name": "Клубника",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 23,
+    "fields": {
+      "name": "Вишня",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 24,
+    "fields": {
+      "name": "Черешня",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 25,
+    "fields": {
+      "name": "Кедровые орехи",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 26,
+    "fields": {
+      "name": "Фисташки",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 27,
+    "fields": {
+      "name": "Миндаль",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 28,
+    "fields": {
+      "name": "Грецкий орех",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 29,
+    "fields": {
+      "name": "Льняное семя",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 30,
+    "fields": {
+      "name": "Тыквенные семечки",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 31,
+    "fields": {
+      "name": "Кешью",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 32,
+    "fields": {
+      "name": "Арахис",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 33,
+    "fields": {
+      "name": "Изюм",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 34,
+    "fields": {
+      "name": "Курага",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 35,
+    "fields": {
+      "name": "Финики",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 36,
+    "fields": {
+      "name": "Мед",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 37,
+    "fields": {
+      "name": "Сахар",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 38,
+    "fields": {
+      "name": "Соль",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 39,
+    "fields": {
+      "name": "Перец",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 40,
+    "fields": {
+      "name": "Уксус",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 41,
+    "fields": {
+      "name": "Масло растительное",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 42,
+    "fields": {
+      "name": "Масло сливочное",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 43,
+    "fields": {
+      "name": "Молоко",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 44,
+    "fields": {
+      "name": "Сметана",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 45,
+    "fields": {
+      "name": "Йогурт",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 46,
+    "fields": {
+      "name": "Сыр",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 47,
+    "fields": {
+      "name": "Мясо",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 48,
+    "fields": {
+      "name": "Рыба",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 49,
+    "fields": {
+      "name": "Яйца",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 50,
+    "fields": {
+      "name": "Хлеб",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 51,
+    "fields": {
+      "name": "Кофе",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 52,
+    "fields": {
+      "name": "Чай",
+      "times_cooked": 0
+    }
+  },
+  {
+    "model": "cookbook.product",
+    "pk": 53,
+    "fields": {
+      "name": "Какао",
+      "times_cooked": 0
+    }
+  }
+]

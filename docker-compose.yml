@@ -1,0 +1,22 @@
+networks:
+  core-network:
+
+
+services:
+  # сервис основного приложения
+  app:
+    build: .
+    image: core
+    env_file:
+      - .env
+    volumes:
+      - ./src:/src
+    working_dir: /src/
+    command: sh -c "python manage.py runserver 0.0.0.0:8000"
+    ports:
+      - "8000:8000"
+    restart: on-failure
+    networks:
+      - core-network
+
+
